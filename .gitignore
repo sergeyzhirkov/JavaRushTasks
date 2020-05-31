@@ -12,6 +12,7 @@ target/
 *.info
 *.properties
 *.jar
+*.txt
 
 
 /3.JavaMultithreading/
@@ -22,3 +23,5 @@ target/
 /Instruction.png
 /out.log
 /out.log.*
+/2.JavaCore/src/Mynewproject/
+/8.Games/
